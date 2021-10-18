@@ -1,0 +1,17 @@
+*{
+    font-family: arial;
+    font-size: 14px;
+
+}
+
+body {
+    background-color: aqua;
+
+}
+
+main {
+    background-color: beige;
+    width: 500px;
+    margin: 0;
+    box-shadow: black;
+}
