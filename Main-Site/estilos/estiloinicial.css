@@ -1,17 +1,11 @@
 *{
-    font-family: arial;
+    font-family: Bradley Hand, cursive;
     font-size: 14px;
 
 }
 
 body {
     background-color: aqua;
-
-}
-
-main {
-    background-color: beige;
-    width: 500px;
     margin: auto;
-    box-shadow: black;
+    box-shadow: blue;
 }
