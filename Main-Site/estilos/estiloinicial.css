@@ -9,4 +9,6 @@ body {
     background-color: aqua;
     margin: auto;
     box-shadow: blue;
+    width: 500;
+    right: 500;
 }
