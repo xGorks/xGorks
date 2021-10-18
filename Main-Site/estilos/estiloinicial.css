@@ -12,6 +12,6 @@ body {
 main {
     background-color: beige;
     width: 500px;
-    margin: 0;
+    margin: auto;
     box-shadow: black;
 }
