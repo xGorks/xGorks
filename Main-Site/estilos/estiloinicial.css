@@ -1,12 +1,85 @@
+/*autor: Gorks */
+/* Meu primeiro codigo css */
+/* defout configs */
 *{
     font-family: Bradley Hand, cursive;
     font-size: 14px;
-    color: navy;
+    color: #2b2b4d;
+    text-align: center;
+    padding:0%;
+}
+ /* defout body */
+body {
+    background-color: #adcfce;
+    margin: auto;
+    box-shadow: #885ea8;
+}
+ /* paragrafos */
+p {
+    border: 1px solid #6f3254;
+  }
+
+ /* titulos h1 */
+h1 {
+    color:#6f3254; 
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+ /* titulos h2 */
+h2 {
+    color:#6f3254;
+    font-size: 20px;
+}
+ /* titulos h3 */
+h3 {
+    color:#6f3254; 
+    font-size: 15px;
+ }
+
+ /* titulos h4 */
+h4 {
+    color:#885ea8; 
+  }
+
+/* tabelas */
+table, th, td {
+    border: 2px solid #885ea8;
+    border-radius: 7px;
+
+}
+ /* div menu topbar */
+.divheader1 {
+    border: 1px solid #885ea8;
+    background-color: #39a1a2;
+    
+}
+
+/* sessao principal centro */
+.tabledivtopbody2 {
+    width:550px;
+    height:500px;
 
 }
 
-body {
-    background-color: rgb(164, 255, 255);
-    margin: auto;
-    box-shadow: navy;
+/* tabela centro titulo e tabela */
+.titletableprincipalbody, .tabledivtopbody2 {
+    font-size: 18px;
+    color: #6f3254;
+}
+/* classe dos footers */
+.footerlayout1 {
+    font-size: 8px;
+    border-radius: 0;
+
+}
+
+/* footer1 mail contatct bar */
+.footer1 {
+    background-color: #39a1a2;    
+}
+
+/* div principal centro */
+.divcenterbody { 
+    border: 1px solid #885ea8;
 }
