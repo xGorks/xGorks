@@ -1,6 +1,8 @@
-/*autor: Gorks */
+/* Autor: Gorks */
 /* Meu primeiro codigo css */
-/* defout configs */
+
+
+/* Default configs */
 *{
     font-family: Bradley Hand, cursive;
     font-size: 14px;
@@ -47,39 +49,4 @@ table, th, td {
     border: 2px solid #885ea8;
     border-radius: 7px;
 
-}
- /* div menu topbar */
-.divheader1 {
-    border: 1px solid #885ea8;
-    background-color: #39a1a2;
-    
-}
-
-/* sessao principal centro */
-.tabledivtopbody2 {
-    width:550px;
-    height:500px;
-
-}
-
-/* tabela centro titulo e tabela */
-.titletableprincipalbody, .tabledivtopbody2 {
-    font-size: 18px;
-    color: #6f3254;
-}
-/* classe dos footers */
-.footerlayout1 {
-    font-size: 8px;
-    border-radius: 0;
-
-}
-
-/* footer1 mail contatct bar */
-.footer1 {
-    background-color: #39a1a2;    
-}
-
-/* div principal centro */
-.divcenterbody { 
-    border: 1px solid #885ea8;
 }
